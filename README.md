@@ -1,6 +1,14 @@
 # G500_database
 
-Contains code used to generate the **G500 Dataset: Emissions, Energy Use and Climate Targets of Fortune G500 companies in the SBTi and RE100 initiatives** available at https://doi.org/10.4121/16616965
+This code was used to produce the data and results of the following pieces of scientific literature.
+
+| Description | Link|
+| -------| ----- |
+| Research article in Nature Communications  | https://doi.org/10.1038/s41467-023-38989-2  |
+| Master thesis at TU Delft  | http://resolver.tudelft.nl/uuid:4088c251-9128-4132-99a5-69b336c34478 |
+| FAIR Dataset | https://doi.org/10.4121/16616965 |
+
+If you use this code or its methods in your study, please make sure to cite at least one of the resources above.
 
 ## Scrapping, parsing and database creation
 1. G500 data scrapping
